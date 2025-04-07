@@ -1,7 +1,7 @@
 # Guardian visuals static uploader
 Upload static assets to S3.
 
-A zip file can be uploaded and the contents of which will be servered from a
+A zip file can be uploaded and the contents of which will be servered from a a
 new folder on S3.
 
 ## Setup
